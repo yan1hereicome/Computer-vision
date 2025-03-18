@@ -15,7 +15,7 @@ Convert video to grayscale (cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)) or apply Ca
 VisionCamRecorder is a simple video recorder built using OpenCV.
 It supports real-time recording, brightness/contrast adjustment, and flip mode.
 
-## Features##
+## Features ##
 ✔ Live camera feed display
 ✔ Recording mode with visual indicator (red circle)
 ✔ Adjustable brightness & contrast
