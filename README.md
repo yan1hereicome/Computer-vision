@@ -11,7 +11,7 @@ Convert video to grayscale (cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)) or apply Ca
 ## Assignments name ##
  Video Recorder 
 
-## Description##
+## Description ##
 VisionCamRecorder is a simple video recorder built using OpenCV.
 It supports real-time recording, brightness/contrast adjustment, and flip mode.
 
@@ -22,12 +22,13 @@ It supports real-time recording, brightness/contrast adjustment, and flip mode.
 ✔ Flip video mode (mirror effect)
 ✔ Saves video in .avi format
 
-## How to Use##
+## How to Use ##
 Press SPACE to start/stop recording.
 Press F to flip the video.
 Adjust brightness/contrast using the sliders.
 Press ESC to exit.
 
+### code 
 pip install opencv-python
 python main.py
 
